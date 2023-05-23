@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Getting started with Reverie
+title: Teaching
 permalink: /teaching/
 ---
 
 <style>
   .no-border, .no-border td, .no-border th {
     border: none;
+      background-color: white;
   }
-  .no-border tr {
-    background-color: white;
-}
 </style>
 
 <table class="no-border">
