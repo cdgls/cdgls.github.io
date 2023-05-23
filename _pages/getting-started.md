@@ -4,6 +4,35 @@ title: Getting started with Reverie
 permalink: /getting-started/
 ---
 
+<style>
+  .no-border, .no-border td, .no-border th {
+    border: none;
+  }
+</style>
+
+<table class="no-border">
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+  </tr>
+  <tr>
+    <td>Cell 1</td>
+    <td>Cell 2</td>
+  </tr>
+  <tr>
+    <td>Cell 3</td>
+    <td>Cell 4</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
 ### Step 1) Fork Reverie to your User Repository
 
 Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
