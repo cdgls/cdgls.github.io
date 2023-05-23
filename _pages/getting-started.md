@@ -8,6 +8,9 @@ permalink: /getting-started/
   .no-border, .no-border td, .no-border th {
     border: none;
   }
+  .no-border tr {
+    background-color: white;
+}
 </style>
 
 <table class="no-border">
