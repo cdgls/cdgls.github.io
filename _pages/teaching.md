@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting started with Reverie
-permalink: /getting-started/
+permalink: /teaching/
 ---
 
 <style>
