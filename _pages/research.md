@@ -24,6 +24,7 @@ table tr, table td, table th {
 }
 </style>
 
+<!--
 <table class="no-border">
   <tr>
     <td class="right-justify">Jan. 2023</td>
@@ -38,6 +39,7 @@ table tr, table td, table th {
       To appear in <i>Algebraic and Geometric Topology</i>.</td>
   </tr>
 </table>
+-->
 
 [Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
