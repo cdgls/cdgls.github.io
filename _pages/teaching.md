@@ -20,7 +20,7 @@ table tr, table td, table th {
 
 <table class="no-border">
   <tr>
-    <td>Cell 1</td>
+    <td>ABC</td>
     <td>Cell 2</td>
   </tr>
   <tr>
