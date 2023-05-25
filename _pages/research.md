@@ -22,6 +22,7 @@ table tr, table td, table th {
 .right-justify {
   text-align: right;
 }
+</style>
 
 <table class="no-border">
   <tr>
