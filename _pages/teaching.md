@@ -21,7 +21,7 @@ table tr, table td, table th {
 <table class="no-border">
   <tr>
     <td>ABC</td>
-    <td>Cell 2</td>
+    <td>XYZ</td>
   </tr>
   <tr>
     <td>Cell 3</td>
