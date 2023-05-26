@@ -27,13 +27,13 @@ table tr, table td, table th {
 <!--
 <table class="no-border">
   <tr>
-    <td class="right-justify">Jan. 2023</td>
+    <td>Jan. 2023</td>
     <td><b>Fibrantly-induced model structures</b><br>
     Joint with Léonard Guetta, Lyne Moser, and Maru Sarazola, <a href="https://arxiv.org/abs/2301.07801">arXiv:2301.07801</a>
     </td>
   </tr>
   <tr>
-    <td class="right-justify">July 2022</td>
+    <td>July 2022</td>
     <td><b>A model structure for weakly horizontally invariant double categories</b><br>
     Joint with Lyne Moser and Maru Sarazola, <a href="https://arxiv.org/abs/2007.00588">arXiv:2007.00588</a><br>
       To appear in <i>Algebraic and Geometric Topology</i>.</td>
