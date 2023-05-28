@@ -32,7 +32,25 @@ table tr, table td, table th {
 
 
 
+.content {
+  display: flex;
+  align-items: center; /* This is optional and aligns the image and text vertically */
+}
 
+.content-image {
+  margin-right: 20px; /* Add some space between the image and the text */
+}
+
+.content-text {
+  flex-grow: 1; /* Allows the text to take up any remaining space */
+}
+
+<div class="content">
+  <img src="https://github.com/cdgls/cdgls.github.io/blob/master/images/image.jpg" alt="description" class="content-image" />
+  <p class="content-text">
+    This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.
+  </p>
+</div>
 
 
 
