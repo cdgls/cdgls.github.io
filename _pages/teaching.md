@@ -31,7 +31,7 @@ table tr, table td, table th {
 
 
 
-
+<style>
 .content {
   display: flex;
   align-items: center; /* This is optional and aligns the image and text vertically */
@@ -44,6 +44,7 @@ table tr, table td, table th {
 .content-text {
   flex-grow: 1; /* Allows the text to take up any remaining space */
 }
+</style>
 
 <div class="content">
   <img src="https://github.com/cdgls/cdgls.github.io/blob/master/images/image.jpg" alt="description" class="content-image" />
