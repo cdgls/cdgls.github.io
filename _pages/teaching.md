@@ -39,6 +39,8 @@ table tr, table td, table th {
 
 .content-image {
   margin-right: 20px; /* Add some space between the image and the text */
+  width: 150px;  /* Set the width of the image */
+  height: auto;  /* This makes the image height adjust to the width while maintaining the aspect ratio */
 }
 
 .content-text {
