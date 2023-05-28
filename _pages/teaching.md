@@ -53,6 +53,13 @@ table tr, table td, table th {
   </p>
 </div>
 
+<div class="content">
+  <img src="images/image.jpg" alt="description" class="content-image" />
+  <p class="content-text">
+    This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.
+  </p>
+</div>
+
 
 
 
