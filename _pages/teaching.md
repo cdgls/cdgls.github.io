@@ -55,21 +55,6 @@ table tr, table td, table th {
     <img src="/images/image.jpg" alt="description" class="content-image" />
 </div>
 
-<div class="content">
-  <img src="https://github.com/cdgls/cdgls.github.io/blob/master/images/image.jpg" alt="description" class="content-image" />
-  <p class="content-text">
-    This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.
-  </p>
-</div>
-
-<div class="content">
-  <img src="images/image.jpg" alt="description" class="content-image" />
-  <p class="content-text">
-    This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.
-  </p>
-</div>
-
-
 
 
 ### Step 1) Fork Reverie to your User Repository
