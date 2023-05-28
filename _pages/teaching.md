@@ -47,6 +47,13 @@ table tr, table td, table th {
 </style>
 
 <div class="content">
+  <p class="content-text">
+    This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.
+  </p>
+    <img src="/images/image.jpg" alt="description" class="content-image" />
+</div>
+
+<div class="content">
   <img src="https://github.com/cdgls/cdgls.github.io/blob/master/images/image.jpg" alt="description" class="content-image" />
   <p class="content-text">
     This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.This is a paragraph of text that will appear beside the image.
